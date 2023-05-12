@@ -1,1 +1,1 @@
-export const usayrim = "chutiya larka";
+export const usayrim = "chutiya larka hai";
